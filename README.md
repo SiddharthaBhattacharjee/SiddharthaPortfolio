@@ -8,7 +8,7 @@
   <a href="LICENSE.txt">
   <img src="https://img.shields.io/badge/license-MPL 2.0-blue.svg">
   </a>
-  <a href="github.com/404">
+  <a href="https://siddhartha-dxsy6v6sb-siddharthabhattacharjee.vercel.app">
     <img alt="Website" src="https://img.shields.io/badge/-website-blue">
   </a>
   <a href="http://makeapullrequest.com">
