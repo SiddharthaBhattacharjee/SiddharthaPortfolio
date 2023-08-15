@@ -31,7 +31,7 @@ On the projects page, you can see some of the web applications that I have devel
 <img alt = "Img0" src = "./Images/img0.png">
 <br>
 
-<a href="https://team-allies-gen-ai-rush2023-tl7z.vercel.app/">Deployed Website Frontend</a>    
+<a href="https://siddhartha-dxsy6v6sb-siddharthabhattacharjee.vercel.app">Deployed Website Frontend</a>    
 
 
 ## ©️ License
