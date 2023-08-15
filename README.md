@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://team-allies-gen-ai-rush2023-tl7z.vercel.app/">
-    <img alt = "Img1" src = "./images/img1.png">
+    <img alt = "Img1" src = "./Images/img1.png">
   </a>
 </p>
 <h1 align="center" >My Portfolio : A small me space in this large web</h1>
@@ -28,7 +28,7 @@ On the resume page, you can download a PDF version of my resume, which contains 
 On the projects page, you can see some of the web applications that I have developed or contributed to. You can also find the links to the live demos, source codes, and documentation of each project. 
 
 <br>
-<img alt = "Img1" src = "./images/img0.png">
+<img alt = "Img0" src = "./Images/img0.png">
 <br>
 
 <a href="https://team-allies-gen-ai-rush2023-tl7z.vercel.app/">Deployed Website Frontend</a>    
