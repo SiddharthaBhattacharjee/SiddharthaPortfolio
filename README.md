@@ -8,7 +8,7 @@
   <a href="LICENSE.txt">
   <img src="https://img.shields.io/badge/license-MPL 2.0-blue.svg">
   </a>
-  <a href="https://siddhartha-dxsy6v6sb-siddharthabhattacharjee.vercel.app">
+  <a href="https://siddhartha-portfolio.vercel.app/">
     <img alt="Website" src="https://img.shields.io/badge/-website-blue">
   </a>
   <a href="http://makeapullrequest.com">
@@ -31,7 +31,7 @@ On the projects page, you can see some of the web applications that I have devel
 <img alt = "Img0" src = "./Images/img0.png">
 <br>
 
-<a href="https://siddhartha-dxsy6v6sb-siddharthabhattacharjee.vercel.app">Deployed Website Frontend</a>    
+<a href="https://siddhartha-portfolio.vercel.app/">Deployed Website Frontend</a>    
 
 
 ## ©️ License
