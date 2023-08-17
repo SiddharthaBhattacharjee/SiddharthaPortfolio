@@ -6,6 +6,7 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { TbTextSize } from "react-icons/tb";
 
 function Footer() {
   let date = new Date();
@@ -64,14 +65,18 @@ function Footer() {
           </ul>
         </Col>
       </Row>
-      <p style={{ color: "gray", textAlign: "center" }} className="footer-copywright">
-        Design Template by{" "}
+      <p className="footer-copywright" style={{ color: "gray", textAlign: "center", fontSize:"12px" }}>
+      Open-source Licensed under MPL 2.0, Design Template by{" "}
         <a
           href="https://github.com/soumyajit4419"
           style={{ color: "gray" }}
         >
           Soumyajit Behera
         </a>{" "}
+        , Hosted for free on <a
+          href="https://vercel.com/"
+          style={{ color: "gray" }}
+        >vercel.</a>
       </p>
     </Container>
   );
