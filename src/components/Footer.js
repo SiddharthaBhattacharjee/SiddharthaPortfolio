@@ -65,19 +65,6 @@ function Footer() {
           </ul>
         </Col>
       </Row>
-      <p className="footer-copywright" style={{ color: "gray", textAlign: "center", fontSize:"12px" }}>
-      Open-source Licensed under MPL 2.0, Design Template by{" "}
-        <a
-          href="https://github.com/soumyajit4419"
-          style={{ color: "gray" }}
-        >
-          Soumyajit Behera
-        </a>{" "}
-        , Hosted for free on <a
-          href="https://vercel.com/"
-          style={{ color: "gray" }}
-        >vercel.</a>
-      </p>
     </Container>
   );
 }
