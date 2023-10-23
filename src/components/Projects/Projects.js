@@ -8,6 +8,9 @@ import npd from "../../Assets/Projects/npd.png";
 import sahaai from "../../Assets/Projects/sahaai.png";
 import rps from "../../Assets/Projects/rps.png";
 import tta from "../../Assets/Projects/tta.png";
+import lfa from "../../Assets/Projects/lfa.gif";
+import ecg from "../../Assets/Projects/ECG.png";
+import ecf from "../../Assets/Projects/EF.png";
 
 function Projects() {
   return (
@@ -29,6 +32,17 @@ function Projects() {
               description="An AI-based call management system which analyses an emergency call and interprets it to get priority level, location, type of help needed etc. This project won the Warpspeed GenAI Hackathon, and if implemented, it can improve the emergency helpline system as well as other call center services. Stack: Python, ReactJS, Flask, Blockchain, Solidity, Assembly AI, Llama Index AI Model, OpenAI API, Twilio"
               ghLink="https://github.com/SiddharthaBhattacharjee/Team-Allies_GenAIRush2023"
               demoLink="https://team-allies-gen-ai-rush2023-tl7z.vercel.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={lfa}
+              isBlog={false}
+              title="Lifafa"
+              description="Lifafa, your gateway to modern gifting, revolutionizes the age-old tradition of giving with its innovative digital red envelope platform. By seamlessly blending tradition with technology, Lifafa allows users to create, share, and experience the joy of giving in the digital age.Tech Stack: ReactJS, Solidity, wagmiJS, Blockchain, Hardhat, Javascript, TailwindCSS."
+              ghLink="https://github.com/SiddharthaBhattacharjee/Lifafa-Blockchain-Red-Envelope"
+              demoLink="https://lifafa-five.vercel.app/"
             />
           </Col>
 
@@ -82,6 +96,28 @@ function Projects() {
               title="TimeTable Android App"
               description="Shows timetable in a day structure with additional features such as showing which class is going on, showing time and edit option. The app has found a userbase among students & teachers at my college. Stack: Java, Android Studio, XML, SQLite"
               ghLink="https://github.com/SiddharthaBhattacharjee/CSE_D_TableApp"
+              demoLink=""
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ecg}
+              isBlog={false}
+              title="E-Certificate Generator"
+              description="A python program that generates E-Certificate by combining names from spreadsheet and png design. It reads any xlsx or csv file for names , and takes in custom certificate designs in png form and then puts in the names from the file onto the certificate and gives output in the output folder. Tech Stack: Python, Pandas, CSV, Xlsx, SQLite."
+              ghLink="https://github.com/SiddharthaBhattacharjee/E-Certificate_Generator"
+              demoLink=""
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ecf}
+              isBlog={false}
+              title="Encriptificator"
+              description="Encriptificator is a text editor app developed by me as a personal project. It provides all basic features of a text editor with the additional feature of encrypting your files. It keeps the files safe and encrypted and cannot be exported to other devices and decrypted.  Tech Stack: Python, OS-FS, MySQL, Py-installer."
+              ghLink="https://github.com/SiddharthaBhattacharjee/Encriptificator"
               demoLink=""
             />
           </Col>
